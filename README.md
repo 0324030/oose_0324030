@@ -29,7 +29,7 @@ https://github.com/0324030/oose_0324030/blob/master/%E6%89%8B%E6%A9%9F%E7%B6%B2%
 
 電腦網頁，起始介面：
 
-
+https://github.com/0324030/oose_0324030/blob/master/pc%20start.gif
 
 手機網頁，產品項目介面：
 
