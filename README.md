@@ -27,6 +27,17 @@
 
 https://github.com/0324030/oose_0324030/blob/master/%E6%89%8B%E6%A9%9F%E7%B6%B2%E9%A0%81%E9%96%8B%E5%A7%8B%E4%BB%8B%E9%9D%A2.gif
 
+電腦網頁，起始介面：
+
+
+
+手機網頁，產品項目介面：
+
+
+
+電腦網頁，產品項目介面：
+
+
 
 # use-case：
 https://github.com/0324030/oose_0324030/blob/master/use-case.gif
